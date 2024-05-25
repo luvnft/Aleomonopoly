@@ -7,7 +7,7 @@
 
     //sign a message
     let utf8Encode = new TextEncoder();
-    let bytes = utf8Encode.encode("Welcome to Aleo-Monopoly, roll dice by getting rent, mystery cards...");
+    let bytes = utf8Encode.encode("Welcome to Aleopoly, roll dice by getting rent, mystery cards...");
 
 
     window.leoWallet.signMessage(bytes);

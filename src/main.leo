@@ -3,9 +3,9 @@
 //===============================================    ALEO MONOPOLY REBUILD II  =================================================
 //======================================================  VER: 0.2.0. ==========================================================
 //==============================================================================================================================
-// This is the rebuild version of the Aleo-Monopoly-V0.2, now in this version, new attribute are added and new implementations
+// This is the rebuild version of the Aleopoly-V0.2, now in this version, new attribute are added and new implementations
 //==============================================================================================================================
-// Welcome to Aleo-Monopoly Game, here there are two kind of tokens = (A) TEST GAME TOKEN & (B) REWARD GAME TOKEN
+// Welcome to Aleopoly Game, here there are two kind of tokens = (A) TEST GAME TOKEN & (B) REWARD GAME TOKEN
 // Player must connect wallet and sign wallet and thereafter mint a 10K TEST token to begin game
 // Player must buy a building so as to have access to roll dice mechanism in the game which uses ChaCha random mechanism
 // Player balance are updated and is private stored in the record after every roll dice[either lose/win]
